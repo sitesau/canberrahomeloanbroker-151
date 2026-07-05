@@ -1,0 +1,17 @@
+{
+  "wheel_id": 94,
+  "slug": "canberrahomeloanbroker-151",
+  "project": "home-loan-broker-canberra-c-151",
+  "parent_t1_ref": "canberrahomeloanbroker-001",
+  "node_role": "buffer",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "home loan broker canberra",
+  "intended_url": "https://home-loan-broker-canberra-c-151.ondigitalocean.app/",
+  "links": [
+    {
+      "target_url": "https://home-loan-broker-canberra.pages.dev/",
+      "anchor": "home loan broker canberra",
+      "rel": "follow"
+    }
+  ]
+}
